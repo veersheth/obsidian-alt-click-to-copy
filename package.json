@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "alt-click-to-copy",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Alt-click to copy code!",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
